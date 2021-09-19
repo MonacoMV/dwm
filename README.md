@@ -12,6 +12,6 @@ Dwm-fullgaps
 
 ttf-font-awesome
 
-alacirtty
+alacritty
 
 base-devel
